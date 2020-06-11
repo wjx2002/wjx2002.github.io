@@ -1,3 +1,4 @@
+/* 重置浏览器的默认样式 */
 *{
 	margin: 0;
 	padding: 0;
@@ -236,19 +237,18 @@ h5{
 .gerenjingli img{
 	/* margin-left: 200px; */
 	margin-bottom: 50px;
-	margin-left: 90px;
+	margin-left: 200px;
 }
 .box1{
 	font-size: 12px;
 	float: left;
-	padding-left:430px ;
+	padding-left:330px ;
 	margin-top:40px ;
-	
 }
 .box2{
 	font-size: 12px;
 	float:right;
-	padding-right:380px ;
+	padding-right:300px ;
 	margin-top:60px ;
 }
 /* footer */
