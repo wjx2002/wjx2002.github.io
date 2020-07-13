@@ -4,10 +4,15 @@
 }
 
 .aaa img{
-	width: 1518px;
-	height:527px;
+background: url(images/unsplash.jpg) no-repeat  center -350px;
+	height:550px;
+	width:100%;
 }
 
+/* .aaa img{
+	width: 1920px;
+	height:666px;
+} */
 
 /* header */
 #logo{
